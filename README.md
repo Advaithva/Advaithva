@@ -4,6 +4,7 @@
 
  # I’m currently studying in grade 8
  # I love coding
+ ![image](https://media.giphy.com/media/LXONhtCmN32YU/giphy.gif)
  # Solve this - https://advaithva.github.io/Hardest-Riddle-EVER/
 
 
