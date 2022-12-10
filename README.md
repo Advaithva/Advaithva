@@ -9,6 +9,8 @@
 ![download](https://user-images.githubusercontent.com/97515865/206830666-e1adeec6-380c-40d9-8c61-2397b5e35c62.jpg) ![download](https://user-images.githubusercontent.com/97515865/206830679-10e5c0f7-9dd8-41e0-b987-c37a7b942c9d.jpg)  ![OIP](https://user-images.githubusercontent.com/97515865/206830694-845b2d54-e406-4e2d-934c-b6b4d2881c0e.jpg)
 
 ### I love solving rubik's cubes
+![OIP](https://user-images.githubusercontent.com/97515865/206830777-ef6c8879-f450-481a-9660-33f2aa02b5fa.jpg) ![OIP](https://user-images.githubusercontent.com/97515865/206830814-52558127-20a7-4f87-95cd-8cecb5b90a97.jpg) ![OIP](https://user-images.githubusercontent.com/97515865/206830839-40b4f149-a278-4fc8-998f-7e8f8a6742fa.jpg)
+
 ### My Portfolio - https://advaithva.github.io/Portfolio/
 
 
