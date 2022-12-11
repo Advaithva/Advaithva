@@ -1,8 +1,8 @@
 
-<div>
+<div align = "center">
 <h1> Hi there 👋 </h1>
 
-h2> I’m currently studying in grade 8 </h2>
+<h2> I’m currently studying in grade 8 </h2>
 <h3> I love coding </h3>
  </div>
  <h4> My favourite languages are - </h4>
@@ -13,6 +13,7 @@ h2> I’m currently studying in grade 8 </h2>
  
 <br><hr><br>
 
+<div align = "center">
  <h3> I love Indian Railways </h3>
  
  <img src = "https://wallpapercave.com/wp/wp5522042.jpg" style = "width:33%;" height = "187"> <img src = "https://newsd.in/wp-content/uploads/2018/09/humsafar-PTI.jpg"  style = "width:33%; height:187px;"> <img src = "https://www.thinkingoftravel.com/wp-content/uploads/2017/05/Duronto-Express.jpg" style = "width:33%;" height = "187">
@@ -22,7 +23,7 @@ h2> I’m currently studying in grade 8 </h2>
 
  <h3> I love solving rubik's cubes </h3>
 
- 
+ </div>
 <br><hr><br>
 
 <h4> My Portfolio - <a href = "https://advaithva.github.io/Portfolio/"> CLICK HERE </a> </h4>
