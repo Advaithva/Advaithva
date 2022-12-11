@@ -15,7 +15,7 @@
 
  <h3> I love Indian Railways </h3>
  
- <img src = "https://wallpapercave.com/wp/wp5522042.jpg" style = "width:33%;"> <img src = "https://newsd.in/wp-content/uploads/2018/09/humsafar-PTI.jpg"  style = "width:33%; height:187px;"> <img src = "https://www.thinkingoftravel.com/wp-content/uploads/2017/05/Duronto-Express.jpg" style = "width:33%;" height = "187">
+ <img src = "https://wallpapercave.com/wp/wp5522042.jpg" style = "width:33%;" height = "187"> <img src = "https://newsd.in/wp-content/uploads/2018/09/humsafar-PTI.jpg"  style = "width:33%; height:187px;"> <img src = "https://www.thinkingoftravel.com/wp-content/uploads/2017/05/Duronto-Express.jpg" style = "width:33%;" height = "187">
 
 
 <br><hr><br>
