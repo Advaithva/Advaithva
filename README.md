@@ -1,4 +1,4 @@
-<div style = "text-align:center;">
+
 # Hi there 👋
 
  ### I’m currently studying in grade 8
@@ -11,7 +11,7 @@
 <br><hr><br>
 ### I love solving rubik's cubes
 ![OIP](https://user-images.githubusercontent.com/97515865/206830777-ef6c8879-f450-481a-9660-33f2aa02b5fa.jpg) ![OIP](https://user-images.githubusercontent.com/97515865/206830814-52558127-20a7-4f87-95cd-8cecb5b90a97.jpg) ![OIP](https://user-images.githubusercontent.com/97515865/206830839-40b4f149-a278-4fc8-998f-7e8f8a6742fa.jpg)
- </div>
+ 
 <br><hr><br>
 ### My Portfolio - https://advaithva.github.io/Portfolio/
 
