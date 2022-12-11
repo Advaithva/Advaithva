@@ -8,10 +8,8 @@
 <body>
 
 <div align = "center" class = "head">
-<h1> Hi there 👋 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=605&height=120&lines=HI+THERE+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Advaith+V+A;I+am+Studying+in+Grade+8" alt="Typing SVG" /></a>
 
-<h2> I’m currently studying in grade 8 </h2>
-<h3> I love coding </h3>
  </div>
  <details>
  <summary> My favourite languages are - </summary>
