@@ -1,8 +1,10 @@
 
+<div>
 <h1> Hi there 👋 </h1>
 
 <h2> I’m currently studying in grade 8 </h2>
 <h3> I love coding </h3>
+ </div>
  <h4> My favourite languages are - </h4>
   
 <img src = "https://clipground.com/images/html-logo-png-1.jpg" height = "242" width = "360">  <img src = "https://th.bing.com/th/id/OIP.iIXOmGDzrtTJmdwbn7cGMwHaEJ?pid=ImgDet&rs=1" height = "242">
