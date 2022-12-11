@@ -2,7 +2,7 @@
 <div>
 <h1> Hi there 👋 </h1>
 
-<h2> I’m currently studying in grade 8 </h2>
+h2> I’m currently studying in grade 8 </h2>
 <h3> I love coding </h3>
  </div>
  <h4> My favourite languages are - </h4>
