@@ -1,5 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
 
-<div align = "center">
+<link rel = "stylesheet" href = "stylesheet.css">
+
+</head>
+
+<body>
+
+<div align = "center" class = "head">
 <h1> Hi there 👋 </h1>
 
 <h2> I’m currently studying in grade 8 </h2>
@@ -29,7 +38,8 @@
 <h4> My Portfolio - <a href = "https://advaithva.github.io/Portfolio/"> CLICK HERE </a> </h4>
 
 
-
+</body>
+</html>
 
 
 
