@@ -53,4 +53,4 @@
 ## Github Stats 
 ![](https://komarev.com/ghpvc/?username=advaithva)
 
-![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithva&show_icons=true&theme=tokyonight)
+![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithva&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithva&layout=compact&langs_count=10&theme=tokyonight&text_color=aaaaff&title_color=ffaaaa)](https://github.com/advaithva/github-readme-stats)
