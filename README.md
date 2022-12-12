@@ -53,6 +53,6 @@
 ## Github Stats 
 ![](https://komarev.com/ghpvc/?username=advaithva)
 
-![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithva&show_icons=true&theme=tokyonight&bg_color=000000)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithva&layout=compact&langs_count=8&theme=highcontrast&text_color=aaaaff&title_color=ffaaaa)](https://github.com/advaithva/github-readme-stats)
+![Advaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithva&show_icons=true&theme=tokyonight&bg_color=000000)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithva&layout=compact&langs_count=10&theme=highcontrast&text_color=aaaaff&title_color=ffaaaa)](https://github.com/advaithva/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast&ring=4675b8)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=advaithva&theme=tokyonight&bg_color=000000)](https://github.com/advaithva/github-profile-trophy)
