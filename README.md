@@ -13,6 +13,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=605&height=120&lines=HI+THERE+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Advaith+V+A;I+am+Studying+in+Grade+8" alt="Typing SVG" /></a>
 
  </div>
+ 
  <details>
  <summary> My favourite languages are - </summary>
   <br>
